@@ -1,4 +1,4 @@
-# 🎲 Random Name Generator
+# 🎲 Minerva
 
 A Python script that generates random names by fetching and processing data from multiple sources. The names are extracted from:
 
@@ -101,3 +101,6 @@ This project is licensed under the **GNU GENERAL PUBLIC LICENSE V3.0**.
 For issues or contributions, open a GitHub issue!
 
 **Author:** [Obsivium](https://github.com/Obsivium)
+
+
+**The name (Minerva) was generated using this program 🚀**
