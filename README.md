@@ -103,4 +103,6 @@ For issues or contributions, open a GitHub issue!
 **Author:** [Obsivium](https://github.com/Obsivium)
 
 
-**The name (Minerva) was generated using this program 🚀**
+
+---
+Note : The name (**Minerva**) was generated using this program 🚀
